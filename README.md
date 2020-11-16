@@ -1,2 +1,2 @@
 # python1-7
-Koding Dastar Pyhton untuk Big Data Analytics
+Koding Dasar Pyhton untuk Big Data Analytics
